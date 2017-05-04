@@ -1,15 +1,8 @@
 [
     {
-        "title": "ABC",
-        "desc": "使用的技术栈有:React+React-router+axios+redux+React-redux+Redux-thunk+SCSS 做的一个响应式的网站，与后台交互，包含登录、注册、退出功能",
+        "title": "美丽说商城",
+        "desc": "使用的技术栈有:HTML-CSS-JavaScript-Ajax-JQuery-Bootstrap-laravel框架 做的一个响应式的网站， 实现用户管理员的登录，注册，查看，搜索，删除，修改，权限管理；商品分类的管理，商品的管理，及购物车订单。",
         "imgName": "1",
-        "demoAddress": "resume1",
-        "codeAddress": "laravel"
-    },
-    {
-        "title": "ABC",
-        "desc": "使用的技术栈有:React+React-router+axios+redux+React-redux+Redux-thunk+SCSS 做的一个响应式的网站，与后台交互，包含登录、注册、退出功能",
-        "imgName": "2",
         "demoAddress": "resume1",
         "codeAddress": "laravel"
     }
